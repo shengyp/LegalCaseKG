@@ -9,8 +9,8 @@ Table of Contents
 
 <!--   * [Report](#Report) -->
   * [Survey](#Survey)
-  * [Food Computation](#Food_Computation)
-  * [Food Knowledge Graph](#Food_Knowledge_Graph)
+  * [Legal Case Retrieval](#Legal_Case_Retrieval)
+  * [Legal Judgment](#Legal_Judgment)
   * [Recipe Representation Learning](#Recipe_Representation_Learning)
   * [Food Recommendations](#Food_Recommendations)
   * [Venue](#Venue)
