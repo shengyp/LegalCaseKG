@@ -11,7 +11,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Legal Case Retrieval](#Legal_Case_Retrieval)
   * [Legal Judgment](#Legal_Judgment)
-  * [Recipe Representation Learning](#Recipe_Representation_Learning)
+  * [Legal Data Analysis for KG](#Legal_Data_Analysis_for_KG)
   * [Legal Datasets](#Legal_Datasets)
   * [Venue](#Venue)
 <!--   * [Temporal Relation Checking](#Temporal_Relation_Checking) -->
@@ -21,9 +21,10 @@ Table of Contents
 1. Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun. **How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence**. ACL 2020. [[Paper]](https://aclanthology.org/2020.acl-main.466/) 
 
 
-2. João Dias, Pedro A. Santos, Nuno Cordeiro, Ana Antunes, Bruno Martins, Jorge Baptista, and Carlos Gonçalves. **State of the Art in Artificial Intelligence applied to the Legal Domain**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2204.07047) 
+2. Chaojun Xiao, Xueyu Hu, Zhiyuan Liu, Cunchao Tu d, and Maosong Sun. **Lawformer: A pre-trained language model for Chinese legal long documents**. OpenAI 2021. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666651021000176) 
 
 
+3. João Dias, Pedro A. Santos, Nuno Cordeiro, Ana Antunes, Bruno Martins, Jorge Baptista, and Carlos Gonçalves. **State of the Art in Artificial Intelligence applied to the Legal Domain**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2204.07047) 
 
 
 
@@ -56,9 +57,12 @@ Table of Contents
 5. Yuzhong Wang, Chaojun Xiao, Shirong Ma, Haoxi Zhong, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun. **Equality before the Law: Legal Judgment Consistency Analysis for Fairness**. Science China Information Sciences. [[Paper]](https://arxiv.org/abs/2103.13868) 
 
 
+6. Zhong, H., Wang, Y., Tu, C., Zhang, T., Liu, Z., & Sun, M. **Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction**. AAAI 2020. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5479) [[Code]](https://github.com/thunlp/QAjudge) 
 
 
-## Legal_Data_Analyzing_for_KG
+
+
+## Legal_Data_Analysis_for_KG
 1. María Navas Loro, Víctor Rodríguez-Doncel. **Tools for building an event-based knowledge graph from legal decisions**. Reject by SWJ. [[Paper]](https://www.semantic-web-journal.net/content/tools-building-event-based-knowledge-graph-legal-decisions) 
 
 
