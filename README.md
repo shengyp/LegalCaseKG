@@ -11,8 +11,10 @@ Table of Contents
   * [Survey](#Survey)
   * [Legal Case Retrieval](#Legal_Case_Retrieval)
   * [Legal Judgment](#Legal_Judgment)
+  * [Legal Case Summarization](#Legal_Case_Summarization)
   * [Legal Data Analysis for KG](#Legal_Data_Analysis_for_KG)
   * [Legal Datasets](#Legal_Datasets)
+  * [Other Tasks](#Other_Tasks)
   * [Venue](#Venue)
 <!--   * [Temporal Relation Checking](#Temporal_Relation_Checking) -->
 
@@ -39,6 +41,8 @@ Table of Contents
 3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
+3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+
 
 
 ## Legal_Judgment
@@ -61,6 +65,13 @@ Table of Contents
 
 
 
+## Legal_Case_Summarization
+1. 韩鹏宇等人. **案件要素句子关联图卷积的案件舆情摘要方法**. 软件学报, 2021. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6110?st=search)
+
+
+2. 黄于欣等人. **基于主题交互图的案件话题摘要**. 软件学报, 2023. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6406?st=search)
+
+
 
 ## Legal_Data_Analysis_for_KG
 1. María Navas Loro, Víctor Rodríguez-Doncel. **Tools for building an event-based knowledge graph from legal decisions**. Reject by SWJ. [[Paper]](https://www.semantic-web-journal.net/content/tools-building-event-based-knowledge-graph-legal-decisions) 
@@ -70,24 +81,20 @@ Table of Contents
 
 
 
-
 ## Legal_Datasets
 1. Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning. **FLawN-T5：An Empirical Examination of Effective InstructionTuning Data Mixtures for Legal Reasoning**. Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2404.02127) [[LawInstruct]](https://github.com/JoelNiklaus/LawInstruct/)
 
 
 
-
-## Venue
-[食品计算技术及应用 | 中国食品科学技术学会第十九届年会专题论坛](https://mp.weixin.qq.com/s/-sosnCXoqUn0-abHedSl5A) | [年会速递 | 12月15日下午专题日程抢先看](https://mp.weixin.qq.com/s/x5YunEfwh-sxLcqwheis7A). 2022.12.08 | [【总结】食品计算技术及应用 | 中国食品科学技术学会第十九届年会专题论坛](https://mp.weixin.qq.com/s/lCpqerzgpd1iGrs7M35AZQ). 2022.12.17
-
+## Other_Tasks
+1. 郭军军等人. **融入案件辅助句的低频和易混淆罪名预测**. 软件学报, 2021. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6028?st=search)
 
 
 
-[Food Computing Research Group](http://123.57.42.89/FoodComputing__People.html)
+[SMP 2022智慧司法论坛](https://conference.cipsc.org.cn/smp2022/workshop10-sifa.html)
 
 
-
-[干货！厨艺速成「秘籍」—— 跨模态菜谱检索](https://mp.weixin.qq.com/s/7taif6UAKA9HH8wG1z9g4Q) | [回放](https://event.baai.ac.cn/activities/346)
+[SMP 2023](https://conference.cipsc.org.cn/smp2023/schedule/)
 
 
 
