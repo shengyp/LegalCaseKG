@@ -12,7 +12,7 @@ Table of Contents
   * [Legal Case Retrieval](#Legal_Case_Retrieval)
   * [Legal Judgment](#Legal_Judgment)
   * [Recipe Representation Learning](#Recipe_Representation_Learning)
-  * [Food Recommendations](#Food_Recommendations)
+  * [Legal Datasets](#Legal_Datasets)
   * [Venue](#Venue)
 <!--   * [Temporal Relation Checking](#Temporal_Relation_Checking) -->
 
@@ -43,15 +43,26 @@ Table of Contents
 1. Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun. **Legal Judgment Prediction via Topological Learning**. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/emnlp2018_dag.pdf) [[Code]](https://github.com/thunlp/TopJudge)
 
 
-2. Shangbang Long, Cunchao Tu , Zhiyuan Liu, and Maosong Sun. **Automatic Judgment Prediction via Legal Reading Comprehension**. CCL 2019. [[Paper]](https://nlp.csai.tsinghua.edu.cn/~lzy/publications/ccl2019_autojudge.pdf) [[Code]](https://github.com/thunlp/TopJudge)
+2. Shangbang Long, Cunchao Tu, Zhiyuan Liu, and Maosong Sun. **Automatic Judgment Prediction via Legal Reading Comprehension**. CCL 2019. [[Paper]](https://nlp.csai.tsinghua.edu.cn/~lzy/publications/ccl2019_autojudge.pdf) [[Code]](https://github.com/thunlp/TopJudge)
 
 
-3. Zikun Hu, Xiang Li, Cunchao Tu, Zhiyuan Liu, Maosong Sun. **Few-Shot Charge Prediction with Discriminative Legal Attributes**. The 27th International Conference on Computational Linguistics (COLING 2020). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/coling2018_attribute.pdf) [[Code]](https://github.com/thunlp/attribute_charge)
+3. Zhiyuan Liu, Cunchao Tu, Zhiyuan Liu, and Maosong Sun. **Legal Cause Prediction with Inner Descriptions and Outer Hierarchies**. CCL 2019. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32381-3_46) [[Code]](https://github.com/acharkq/HLCP)
+
+
+4. Zikun Hu, Xiang Li, Cunchao Tu, Zhiyuan Liu, Maosong Sun. **Few-Shot Charge Prediction with Discriminative Legal Attributes**. The 27th International Conference on Computational Linguistics (COLING 2020). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/coling2018_attribute.pdf) [[Code]](https://github.com/thunlp/attribute_charge)
+
+
+5. Yuzhong Wang, Chaojun Xiao, Shirong Ma, Haoxi Zhong, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun. **Equality before the Law: Legal Judgment Consistency Analysis for Fairness**. Science China Information Sciences. [[Paper]](https://arxiv.org/abs/2103.13868) 
 
 
 
 
 ## Legal_Data_Analyzing_for_KG
+1. María Navas Loro, Víctor Rodríguez-Doncel. **Tools for building an event-based knowledge graph from legal decisions**. Reject by SWJ. [[Paper]](https://www.semantic-web-journal.net/content/tools-building-event-based-knowledge-graph-legal-decisions) 
+
+
+2. Luoqiu Li, Zhen Bi, Hongbin Ye, Shumin Deng, Hui Chen, Huaixiao Tou. **Text-guided Legal Knowledge Graph Reasoning**. Science China Information Sciences. [[Paper]](https://arxiv.org/pdf/2104.02284) 
+
 
 
 
