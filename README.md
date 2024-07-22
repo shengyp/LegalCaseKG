@@ -18,10 +18,11 @@ Table of Contents
 
 
 ## Survey
-1. Weiqing Min, Shuqiang Jiang, Linhu Liu, Yong Rui, and Ramesh Jain. **A Survey on Food Computing**. ACM Computing Surveys 2019. [[Paper]](https://arxiv.org/pdf/1808.07202.pdf) 
+1. Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun. **How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence**. ACL 2020. [[Paper]](https://aclanthology.org/2020.acl-main.466/) 
 
 
-2. Shuqiang Jiang and Weiqing Min. **Food Computing for Multimedia**. ACM Computing Surveys 2020. [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3418544) 
+2. João Dias, Pedro A. Santos, Nuno Cordeiro, Ana Antunes, Bruno Martins, Jorge Baptista, and Carlos Gonçalves. **State of the Art in Artificial Intelligence applied to the Legal Domain**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2204.07047) 
+
 
 
 
