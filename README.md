@@ -43,7 +43,20 @@ Table of Contents
 1. Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun. **Legal Judgment Prediction via Topological Learning**. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/emnlp2018_dag.pdf) [[Code]](https://github.com/thunlp/TopJudge)
 
 
-2. Zikun Hu, Xiang Li, Cunchao Tu, Zhiyuan Liu, Maosong Sun. **Few-Shot Charge Prediction with Discriminative Legal Attributes**. The 27th International Conference on Computational Linguistics (COLING 2020). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/coling2018_attribute.pdf) [[Code]](https://github.com/thunlp/attribute_charge)
+2. Shangbang Long, Cunchao Tu , Zhiyuan Liu, and Maosong Sun. **Automatic Judgment Prediction via Legal Reading Comprehension**. CCL 2019. [[Paper]](https://nlp.csai.tsinghua.edu.cn/~lzy/publications/ccl2019_autojudge.pdf) [[Code]](https://github.com/thunlp/TopJudge)
+
+
+3. Zikun Hu, Xiang Li, Cunchao Tu, Zhiyuan Liu, Maosong Sun. **Few-Shot Charge Prediction with Discriminative Legal Attributes**. The 27th International Conference on Computational Linguistics (COLING 2020). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/coling2018_attribute.pdf) [[Code]](https://github.com/thunlp/attribute_charge)
+
+
+
+
+## Legal_Data_Analyzing_for_KG
+
+
+
+## Legal_Datasets
+1. Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning. **FLawN-T5：An Empirical Examination of Effective InstructionTuning Data Mixtures for Legal Reasoning**. Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2404.02127) [[LawInstruct]](https://github.com/JoelNiklaus/LawInstruct/)
 
 
 
