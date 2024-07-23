@@ -11,6 +11,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Legal Case Retrieval](#Legal_Case_Retrieval)
   * [Legal Judgment](#Legal_Judgment)
+  * [Legal Reasoning](#Legal_Reasoning)
   * [Legal Case Summarization](#Legal_Case_Summarization)
   * [Legal Data Analysis for KG](#Legal_Data_Analysis_for_KG)
   * [Legal Datasets](#Legal_Datasets)
@@ -44,6 +45,10 @@ Table of Contents
 3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
+## Legal_Reasoning
+1. Fangyi Yu et al. **Exploring the Effectiveness of Prompt Engineering for Legal Reasoning**. ACL Findings 2023. [[Paper]](https://aclanthology.org/2023.findings-acl.858.pdf)
+
+
 
 ## Legal_Judgment
 1. Haoxi Zhong, Zhipeng Guo, Cunchao Tu, Chaojun Xiao, Zhiyuan Liu, Maosong Sun. **Legal Judgment Prediction via Topological Learning**. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). [[Paper]](https://nlp.csai.tsinghua.edu.cn/~tcc/publications/emnlp2018_dag.pdf) [[Code]](https://github.com/thunlp/TopJudge)
@@ -62,6 +67,14 @@ Table of Contents
 
 
 6. Zhong, H., Wang, Y., Tu, C., Zhang, T., Liu, Z., & Sun, M. **Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction**. AAAI 2020. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5479) [[Code]](https://github.com/thunlp/QAjudge) 
+
+
+7. Dietrich Trautmann, Alina Petrova, Frank Schilder. **Legal Prompt Engineering for Multilingual Legal Judgement Prediction**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2212.02199) 
+
+
+
+8. Jingyun Sun, Shaobin Huang, Chi Wei. **Chinese legal judgment prediction via knowledgeable prompt learning**. Expert Systems With Applications 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423026799) 
+
 
 
 
