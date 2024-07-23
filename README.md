@@ -10,6 +10,7 @@ Table of Contents
 <!--   * [Report](#Report) -->
   * [Survey](#Survey)
   * [Legal Case Retrieval](#Legal_Case_Retrieval)
+  * [Legal Search](#Legal_Search)
   * [Legal Judgment](#Legal_Judgment)
   * [Legal Reasoning](#Legal_Reasoning)
   * [Legal Case Summarization](#Legal_Case_Summarization)
@@ -38,11 +39,16 @@ Table of Contents
 2. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2312.11229) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
-
 3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
 3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+
+
+
+## Legal_Search
+1. Yixiao Ma, Qingyao Ai, Yueyue Wu, Yunqiu Shao, Yiqun Liu, Min Zhang, and Shaoping Ma. **Incorporating Retrieval Information into the Truncation of Ranking Lists for Better Legal Search**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531998) [[Code]](https://github.com/myx666/LeCut)
+
 
 
 ## Legal_Reasoning
@@ -72,8 +78,12 @@ Table of Contents
 7. Dietrich Trautmann, Alina Petrova, Frank Schilder. **Legal Prompt Engineering for Multilingual Legal Judgement Prediction**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2212.02199) 
 
 
-
 8. Jingyun Sun, Shaobin Huang, Chi Wei. **Chinese legal judgment prediction via knowledgeable prompt learning**. Expert Systems With Applications 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423026799) 
+
+
+9. Yunqiu Shao, Yueyue Wu, Yiqun Liu, Jiaxin Mao, and Shaoping Ma. **Understanding Relevance Judgments in Legal Case Retrieval**. ACM Transactions on Information Systems (TOIS). [[Paper]](https://dl.acm.org/doi/10.1145/3569929) [[Code]](https://github.com/ThuYShao/LegalRelvanceJugments)
+
+
 
 
 
@@ -96,6 +106,9 @@ Table of Contents
 
 ## Legal_Datasets
 1. Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning. **FLawN-T5：An Empirical Examination of Effective InstructionTuning Data Mixtures for Legal Reasoning**. Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2404.02127) [[LawInstruct]](https://github.com/JoelNiklaus/LawInstruct/)
+
+
+[[LeCaRD]](https://img.shields.io/github/license/myx666/LeCaRD)
 
 
 
