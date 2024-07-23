@@ -65,7 +65,7 @@ Table of Contents
 9. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
-10. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+10. 毛星亮等人. **全局和局部信息融合的案情关键要素识别**. 软件学报 2023. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6903?st=search)
 
 
 
