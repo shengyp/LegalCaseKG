@@ -101,11 +101,16 @@ Table of Contents
 7. Dietrich Trautmann, Alina Petrova, Frank Schilder. **Legal Prompt Engineering for Multilingual Legal Judgement Prediction**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2212.02199) 
 
 
-8. Jingyun Sun, Shaobin Huang, Chi Wei. **Chinese legal judgment prediction via knowledgeable prompt learning**. Expert Systems With Applications 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423026799) 
+8. Geya Feng, Yongbin Qin, Ruizhang Huang, Yanping Chen. **Criminal Action Graph: A semantic representation model of judgement documents for legal charge prediction**. Information Processing and Management 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457323001589) 
 
 
-9. Yunqiu Shao, Yueyue Wu, Yiqun Liu, Jiaxin Mao, and Shaoping Ma. **Understanding Relevance Judgments in Legal Case Retrieval**. ACM Transactions on Information Systems (TOIS). [[Paper]](https://dl.acm.org/doi/10.1145/3569929) [[Code]](https://github.com/ThuYShao/LegalRelvanceJugments)
+9. Yulin Zhou, Lijuan Liu, Yanping Chen, Ruizhang Huang, Yongbin Qin & Chuan Lin. **A novel MRC framework for evidence extracts in judgment documents**. Artificial Intelligence and Law 2023. [[Paper]](https://link.springer.com/article/10.1007/s10506-023-09344-z)
 
+
+10. Jingyun Sun, Shaobin Huang, Chi Wei. **Chinese legal judgment prediction via knowledgeable prompt learning**. Expert Systems With Applications 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423026799) 
+
+
+11. Yunqiu Shao, Yueyue Wu, Yiqun Liu, Jiaxin Mao, and Shaoping Ma. **Understanding Relevance Judgments in Legal Case Retrieval**. ACM Transactions on Information Systems (TOIS). [[Paper]](https://dl.acm.org/doi/10.1145/3569929) [[Code]](https://github.com/ThuYShao/LegalRelvanceJugments)
 
 
 
