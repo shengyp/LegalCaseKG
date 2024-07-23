@@ -33,16 +33,39 @@ Table of Contents
 
 
 ## Legal_Case_Retrieval
-1. Yanran Tang, Ruihong Qiu, Xue Li. **Prompt-based Effective Input Reformulation for Legal Case Retrieval**. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2309.02962) [[Code]](https://github.com/yanran-tang/PromptCase)
+1. Yunqiu Shao, Bulou Liu, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. **Leveraging Semantic Understanding and Exact Matching for Legal Case Retrieval and Entailment**. THUIR@COLIEE-2020. [[Paper]](https://arxiv.org/pdf/2012.13102) 
 
 
-2. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2312.11229) [[Code]](https://github.com/yanran-tang/CaseGNN)
+2. Yunqiu Shao. **Towards Legal Case Retrieval**. SIGIR 2020. [[Paper]](https://thuyshao.github.io/files/sigirdc_shao_onepage_0603.pdf) 
 
 
-3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+3. Yunqiu Shao, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Ken Satoh, Min Zhang, and Shaoping Ma. **BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval**. IJCAI-PRICAI 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/0484.pdf) 
 
 
-3. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+4. Yixiao Ma, Yunqiu Shao, Yueyue Wu, Yiqun Liu, Ruizhe Zhang, Min Zhang, Shaoping Ma. **LeCaRD: A Legal Case Retrieval Dataset for Chinese Law System**. SIGIR 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463250) 
+
+
+5. Bulou Liu, Yueyue Wu, Yiqun Liu, Fan Zhang, Yunqiu Shao, Chenliang Li, Min Zhang and Shaoping Ma. **Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval**. SIGIR 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463064) 
+
+
+6. Yixiao Ma, Yunqiu Shao, Bulou Liu, Yiqun Liu, Min Zhang, and Shaoping Ma. **Retrieving Legal Cases from a Large-scale Candidate Corpus**. COLIEE 2021 workshop: Competition on Legal Information Extraction/Entailment. (COLIEE 2021) . [[Paper]](https://thuyshao.github.io/files/COLIEE2021_Workshop_CR_thuir.pdf) 
+
+
+
+6. Yunqiu Shao, Yueyue Wu, Yiqun Liu, Jiaxin Mao, Min Zhang and Shaoping Ma. **Investigating User Behavior in Legal Case Retrieval**. SIGIR 2021. [[Paper]](https://thuyshao.github.io/files/COLIEE2021_Workshop_CR_thuir.pdf) 
+[[Dataset]](https://github.com/ThuYShao/UserStudyLegalDataset)
+
+
+7. Yanran Tang, Ruihong Qiu, Xue Li. **Prompt-based Effective Input Reformulation for Legal Case Retrieval**. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2309.02962) [[Code]](https://github.com/yanran-tang/PromptCase)
+
+
+8. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2312.11229) [[Code]](https://github.com/yanran-tang/CaseGNN)
+
+
+9. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
+
+
+10. Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang. **全局和局部信息融合的案情关键要素识别**. Arxiv 2024. [[Paper]](https://arxiv.org/abs/2405.11791) [[Code]](https://github.com/yanran-tang/CaseGNN)
 
 
 
@@ -109,6 +132,10 @@ Table of Contents
 
 
 [[LeCaRD]](https://img.shields.io/github/license/myx666/LeCaRD)
+
+
+[[LeCaRDv2]](https://github.com/THUIR/LeCaRDv2)
+
 
 
 
